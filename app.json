@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Spa-Firebase",
+    "slug": "Spa-Firebase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.luminousspa.app"
+    },
+    "android": {
+      "package": "com.luminousspa.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "luminousspa",
+    "extra": {
+      "eas": {
+        "projectId": "751d8b23-eda0-4dba-8a01-ba243e16802c"
+      }
+    },
+    "owner": "meliton14"
+
+    
+  }
+}
