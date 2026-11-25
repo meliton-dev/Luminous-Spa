@@ -10,7 +10,7 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyAy6SbXmH2-i23-mli_9sfHzPX5mLJAmsE",
+  apiKey: "TU_API_KEY",
   authDomain: "spa-firebase-tuto.firebaseapp.com",
   projectId: "spa-firebase-tuto",
   storageBucket: "spa-firebase-tuto.firebasestorage.app",
